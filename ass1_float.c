@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
 {
   int n,  q, c, d, k = 0;
   n = atoi(argv[1]);
-  printf("init 3 float matrix with size <%d>", n);
+  printf("init 3 float matrix with size <%d> \n", n);
   float first[n][n], second[n][n], multiply[n][n];
   float sum = 0.0;
   // init the matrix 1
