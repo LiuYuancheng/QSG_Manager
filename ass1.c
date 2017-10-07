@@ -7,7 +7,7 @@ int main(int argc, char *argv[])
 {
   int n,  q, c, d, k, sum = 0;
   n = atoi(argv[1]);
-  printf("init 3 int matrix with size <%d>", n);
+  printf("init 3 int matrix with size <%d> \n", n);
   int first[n][n], second[n][n], multiply[n][n];
   // init the matrix 1
   for (c = 0; c < n; c++)
