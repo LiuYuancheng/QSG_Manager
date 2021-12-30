@@ -1,6 +1,6 @@
 # QSG-Manager
 
-> All rights reserved by NUS-Singtel Cyber Security R&D Lab (Jun 2016 to Jun 2021)
+> All copyrights reserved by NUS-Singtel Cyber Security R&D Lab (Jun 2016 to Jun 2021)
 
 ### Introduction
 
