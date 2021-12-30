@@ -1,4 +1,7 @@
 # QSG-Manager
+
+> All rights reserved by NUS-Singtel Cyber Security R&D Lab (Jun 2016 to Jun 2021)
+
 ### Introduction
 
 Dashboard GUI to monitor internal status of our quantum safe gateways.
